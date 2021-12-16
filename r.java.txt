@@ -2,6 +2,9 @@ class Rupesh
 {
 public static void main(String args[])
 {
+Rupesh("hello");
+Rupesh r = new Rupesh(){
 System.out.println("hii");
+}
 }
 }
